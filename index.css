@@ -109,19 +109,19 @@ img {
 }
 
 .ofertas__cards--japao {
-    background-image: url("./public/tokyo.png");
+    background-image: url("./img/tokyo.png");
 }
 
 .ofertas__cards--san-andreas {
-    background-image: url("./public/san-andreas.png");
+    background-image: url("./img/san-andreas.png");
 }
 
 .ofertas__cards--paraiba {
-    background-image: url("./public/paraiba.png");
+    background-image: url("./img/paraiba.png");
 }
 
 .ofertas__cards--manaus {
-    background-image: url("./public/manaus.png");
+    background-image: url("./img/manaus.png");
 }
 
 .ofertas__card--destino-tipo {
