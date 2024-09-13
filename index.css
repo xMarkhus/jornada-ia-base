@@ -1,3 +1,4 @@
+
 .cabecalho__container {
     background: var(--preto);
     width: 100%;
@@ -29,8 +30,15 @@
     line-height: normal;
 }
 
+.banner__wrapper {
+    width: 100vw;
+    margin: 0 auto;
+}
+
 .banner__img {
     max-width: 100%;
+    height: auto;
+    display: block;
 }
 
 .banner__descricao {
@@ -42,6 +50,7 @@
     font-weight: 400;
     line-height: 150%;
     margin: 110px auto;
+    padding: 0 20px;
 }
 
 .container {
